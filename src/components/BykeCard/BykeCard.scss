@@ -1,0 +1,25 @@
+.byke-card {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid hsl(141, 53%, 53%);
+  border-radius: 5px;
+}
+
+.byke-price {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.byke-name {
+  font-weight: bold;
+}
+
+.remove-icon {
+  cursor: pointer;
+}
+
+.status {
+  display: flex;
+  align-items: center;
+}

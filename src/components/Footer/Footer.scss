@@ -1,0 +1,16 @@
+.footer-style {
+  display: flex;
+  align-items: center;
+  min-height: 65px;
+  background-color: hsl(0, 0%, 14%);
+}
+
+.footer-link {
+  color: #fff;
+  cursor: pointer;
+  transition: all .3s ease-in-out;
+}
+
+.footer-link:hover {
+  color: hsl(0, 0%, 71%);
+}
