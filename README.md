@@ -1,46 +1,25 @@
-# Getting Started with Create React App
+Motorcycle App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Home Page:
+List of Motorcycles: Users can view a list of available motorcycles with basic information: name, color, status (available/occupied), type, wheel size, and price.
+Add New Motorcycle: Users can add a new motorcycle by entering the required details in a form.
+Delete Motorcycle: Users can remove a motorcycle from the list.
 
-## Available Scripts
+2. Motorcycle Details Page:
+Detailed Information: Users can explore more detailed information about a selected motorcycle, such as the unique identifier (ID), description, and additional specifications.
+Change Status: Users can alter the status of a motorcycle to "available" or "occupied."
 
-In the project directory, you can run:
+3. Developer:
+Developer Information: Users can access more detailed information about the application developer, including name, contact details, and professional experience.
 
-### `npm start`
+General Application Traits:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ - User-Friendly Design: An intuitive interface ensures ease of use for the application.
+Efficiency: Users can effortlessly manage the motorcycle list, make changes, and receive real-time information.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+ - Dynamic Data Updates: Changes in motorcycle status are instantly reflected on the main page.
+The application offers a convenient and effective way to manage motorcycle data, providing users with full control and easy access to the necessary information.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Github front: `https://github.com/cebanoleksandr/motocycle`
+Github back: `https://github.com/cebanoleksandr/motocycle-be`
+DEMO LINK: `https://cebanoleksandr.github.io/motocycle`
