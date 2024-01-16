@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motocycle/static/css/main.37b4e0e4.css",
+    "main.js": "/motocycle/static/js/main.188ca1de.js",
+    "static/js/787.7ba7eeea.chunk.js": "/motocycle/static/js/787.7ba7eeea.chunk.js",
+    "index.html": "/motocycle/index.html",
+    "main.37b4e0e4.css.map": "/motocycle/static/css/main.37b4e0e4.css.map",
+    "main.188ca1de.js.map": "/motocycle/static/js/main.188ca1de.js.map",
+    "787.7ba7eeea.chunk.js.map": "/motocycle/static/js/787.7ba7eeea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b4e0e4.css",
+    "static/js/main.188ca1de.js"
+  ]
+}
